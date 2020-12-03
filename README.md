@@ -15,3 +15,4 @@ This data is provided by *Inside AirBnB*, you can download the data from [here](
 
 This repository contains all of the above mentioned steps in 'airbnb-analysis-paris.ipynb'.
 
+

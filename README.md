@@ -5,13 +5,13 @@
 
 ## Table of contents
 
-1.[Project Overview](#overview)
-2.[Project Components](#components)
-3.[Installation](#installation)
-4.[File Description](#file)
-5.[Motivation](#motivation)
-6.[Acknowledgements](#licensing)
-7.[Restuls](#results)
+1. [Project Overview](#overview)
+2. [Project Components](#components)
+3. [Installation](#installation)
+4. [File Description](#file)
+5. [Motivation](#motivation)
+6. [Acknowledgements](#licensing)
+7. [Restuls](#results)
 
 ### 1. Project Overview<a name="overview"></a>
 

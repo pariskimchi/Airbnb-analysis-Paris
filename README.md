@@ -33,9 +33,9 @@ Airbnb is hottest startup company in 21st century. The company provides the serv
  
  ### 4. File descriptions<a name="file"></a>
  
- listings_df = The dataset contains detailed Listings data for Paris.
- calendar_df = The dataset contains detailed Calendar data for  Listings in Paris.
- reviews_df = The dataset contains detailed review data for  Listings in Paris.
+ - listings_df = The dataset contains detailed Listings data for Paris.
+ - calendar_df = The dataset contains detailed Calendar data for  Listings in Paris.
+ - reviews_df = The dataset contains detailed review data for  Listings in Paris.
  
  
  ### 5. Motivation<a name="motivation"></a>
